@@ -8,7 +8,7 @@
 ![image3](images/image3.png)
 
 # 3、视频渲染  
-网盘地址链接: https://pan.baidu.com/s/1YFMdqNmsXodUpzxtVeDwWg 提取码: e84h 
+网盘地址链接: 链接: https://pan.baidu.com/s/1pAvrKJ1uaJiB-AIq4jDFaQ 提取码: b30c  
 ![video1](videos/video1.png)
 ![video2](videos/video2.png)
 ![video3](videos/video3.png)
